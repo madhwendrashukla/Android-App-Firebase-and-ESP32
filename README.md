@@ -1,9 +1,12 @@
 # Arduino-Android-App
 
-Project using Android+Firebase+ESP32+Relay
+Project using Android+Firebase+ESP32+Relay(On off your room light through your phone)
 
+Android code is in Repo
 
 Code FOR Esp32
+
+You can find database and api key from firebase
 
 
 
