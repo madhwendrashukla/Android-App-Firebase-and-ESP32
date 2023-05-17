@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114288928994",
+    "firebase_url": "https://arduino-cf140-default-rtdb.firebaseio.com",
+    "project_id": "arduino-cf140",
+    "storage_bucket": "arduino-cf140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114288928994:android:6fac2cab03fbf16f1a96bb",
+        "android_client_info": {
+          "package_name": "in.madhwendra.arduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114288928994-1peaaqq1b7giht8eae8kk4qvf0npm7ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTrvvgYN7cSGehFitwmUU1xzZurdEK4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114288928994-1peaaqq1b7giht8eae8kk4qvf0npm7ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
